@@ -11,7 +11,7 @@
     "type": "git",
     "url": "git+ssh://git@github.com/Kelier/reptileForTest.git"
   },
-  "author": "John Yan",
+  "author": "kelier",
   "license": "ISC",
   "bugs": {
     "url": "https://github.com/Kelier/reptileForTest/issues"
