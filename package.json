@@ -1,0 +1,24 @@
+{
+  "name": "reptile",
+  "version": "1.0.0",
+  "description": "node.js reptile for test",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "node app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/Kelier/reptileForTest.git"
+  },
+  "author": "John Yan",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Kelier/reptileForTest/issues"
+  },
+  "homepage": "https://github.com/Kelier/reptileForTest#readme",
+  "devDependencies": {
+    "cheerio": "^1.0.0-rc.2",
+    "superagent": "^3.5.2"
+  }
+}
