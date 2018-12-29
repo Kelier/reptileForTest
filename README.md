@@ -1,5 +1,7 @@
 ### 看这里
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/Kelier/reptileForTest.svg)](https://greenkeeper.io/)
+
 这里是一个node的基础爬虫程序，方便像和我一样的新手入门
 
 > 这里采用两个npm包
